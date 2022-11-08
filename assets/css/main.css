@@ -2194,6 +2194,12 @@ input, select, textarea {
 			overflow: hidden;
 		}
 
+		.image.avatar:hover {
+			opacity: 1;
+			cursor: pointer;
+			
+		}
+
 			.image.avatar img {
 				border-radius: 100%;
 				display: block;
@@ -3064,6 +3070,7 @@ input, select, textarea {
 					border: 0;
 					outline: 0;
 					right: 0;
+					z-index: 999;
 				}
 
 					#titleBar .toggle:before {
