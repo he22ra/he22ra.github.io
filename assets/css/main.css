@@ -23,7 +23,9 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+	font-family:  "Noto Sans KR", sans-serif !important;
+	}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -2208,7 +2210,7 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			height: 20em;
+			height: 19.45em;
 			border-radius: 0;
 		}
 
@@ -2216,6 +2218,16 @@ input, select, textarea {
 				border-radius: 0;
 			}
 
+			.image .main .watermark {
+				display: flex !important;
+				justify-content: end !important;
+				align-items: end !important;
+				margin :0 auto;
+				z-index: 999;
+				color: rgba(255, 255, 255, 0.8);
+				font-size: 2.5em;
+			}
+			
 /* List */
 
 	ol {
