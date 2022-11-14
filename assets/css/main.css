@@ -2191,7 +2191,8 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		.image.avatar {
+			.image.avatar {
+			width: 100%;
 			border-radius: 0;
 			overflow: hidden;
 		}
@@ -2199,7 +2200,6 @@ input, select, textarea {
 		.image.avatar:hover {
 			opacity: 1;
 			cursor: pointer;
-			
 		}
 
 			.image.avatar img {
@@ -2764,7 +2764,15 @@ input, select, textarea {
 			#header > header .avatar {
 				display: block;
 				margin: 0 auto 2.25em auto;
-				width: 8em;
+				width: 12rem;
+				height: 12rem;
+				background: url("../../images/turtle_default.png") no-repeat center;
+				background-size: 100%;
+			}
+
+			#header > header .avatar:hover {
+				background: url("../../images/turtle_upside.png") no-repeat center;
+				background-size: 100%;
 			}
 
 			#header > header h1 {
