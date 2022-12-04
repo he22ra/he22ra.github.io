@@ -1,26 +1,29 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
-logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+title: Heera,Lee
+logo: logo.png # You can add own logo.
+description: Web Developer & Designer Portfolio Site.
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
-  image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  name: Heera Lee
+  image: crackerie_x-mas.jpg
+  say-hello: Hello, I’m <strong>Heera, Lee</strong>
+  bio:  <i class="fa-solid fa-laptop-code"></i> Development, Design, Marketing about <strong>web</strong>.<br/>
+        <i class="fa-regular fa-face-kiss-wink-heart"></i> Loves watch Cinema & Musical <br/> 
+        <i class="fa-solid fa-candy-cane"></i> Merry Crackerie-mas !
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+ twitter: https://twitter.com/ # Add your Twitter handle
+ facebook: https://facebook.com/ # Add your Facebook handle
+ dribbble: https://dribbble.com/ # Add your Dribbble handle
+ instagram: https://instagram.com/ # Add your Instagram handle
+ pinterest: https://pinterest.com/ # Add your Pinterest handle
+ github: https://github.com/he22ra
 
 
 #-------------------------------
@@ -36,7 +39,7 @@ instagram-profile: artemsheludko_ # Add instagram username
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: G-4T6YW201L4 # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------

@@ -2,25 +2,40 @@
 layout: page
 title: About
 permalink: /about/
-image: 01.jpg
+image: about.jpg
 ---
 
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+안녕하세요, 이희라입니다.   
+간단한 자기소개영역..   
+.   
+.   
+Web Developer & Designer   
+AI 웹개발 수료 중.. ~ 2023.01.11   
+
 
 ***
+## 경력
 
-#### Austin scenester...
-<small>2008 - 2018</small>
+#### 재단법인 oo의학연구소 
+<small>2020. 04 ~ 2022. 07</small>   
+재단 및 의원 홍보(언론 보도자료 작성), 마케팅(바이럴), 의료광고심의 업무.   
+원내 홍보 디자인 총괄 및 홈페이지 유지보수 관리
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+#### oo치과의원
+<small>2020. 04 ~ 2022. 07</small>   
+홈페이지 관리, 바이럴 이미지 작업, 원내 홍보물 작업 외 디자인 업무, 데스크 보조
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+#### 아주대학교의료원
+<small>2016. 01 ~ 2018. 01</small>   
+의학논문 및 교과서 Illust & Figure 제작   
+의과대학 DID(Digital Information Display) 컨텐츠 & 뉴스레터 디자인
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+
+#### 엠씨케이퍼블리싱
+<small>2014. 06 ~ 2015. 01</small>   
+뉴미디어팀 웹디자인 어시스턴트 근무   
+웹사이트 관리 및 SNS 이미지 제작, 클래스 영상 촬영 및 편집   
+마리끌레르, 메종, 싱글즈 뉴스레터와 이벤트페이지 제작   
+뷰티쁠x에스티로더 <투게더핑크> 마이크로사이트 디자인   
