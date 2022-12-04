@@ -1,19 +1,11 @@
 <div class="contact">
   <ul class="contact__list list-reset">
-    {% if site.data.settings.github %}
-      <li><a href="{{ site.data.settings.github }}"><ion-icon name="logo-github"></ion-icon></a></li>
-    {% else %} {% endif %}
-   
-    {% if site.data.settings.notion %}
-      <li><a href="{{ site.data.settings.notion }}"><i class="fa-solid fa-clapperboard"></i></a></li>
-    {% else %} {% endif %}
-    
     {% if site.data.settings.twitter %}
-      <li><a href="{{ site.data.settings.twitter }}"><i class="ion ion-logo-twitter"></i></a></li>
+      <li><a href="{{ site.data.settings.twitter }}"><i class="ion ion-logo-github"></i></a></li>
     {% else %} {% endif %}
 
     {% if site.data.settings.facebook %}
-      <li><a href="{{ site.data.settings.facebook }}"><i class="ion ion-logo-facebook"></i></a></li>
+      <li><a href="{{ site.data.settings.facebook }}"><i class="fa-solid fa-clapperboard"></i></a></li>
     {% else %} {% endif %}
   
     {% if site.data.settings.dribbble %}
