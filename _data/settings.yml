@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Heera,Lee
-logo: ./logo.png # You can add own logo.
+logo: /logo.png # You can add own logo.
 description: Web Developer & Designer Portfolio Site.
 
 

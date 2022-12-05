@@ -1,5 +1,5 @@
-baseurl: "./blog" # the subpath of your site, e.g. /blog
-url: "https://he22ra.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://he22ra.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
@@ -11,7 +11,7 @@ plugins:
   - jekyll/tagging
 
 paginate: 5
-paginate_path: "./page/:num"
+paginate_path: "/page/:num"
 
 
 # Pages Path
@@ -19,7 +19,7 @@ defaults:
   - scope:
       path: '_pages'
     values:
-      permalink: ./:basename:output_ext
+      permalink: /:basename:output_ext
 
 include:
   - _pages
