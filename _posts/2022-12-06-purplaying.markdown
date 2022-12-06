@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  크라우드펀딩사이트 "퍼플레잉"
-date:   2022-12-05 11:19
+title:  purplaying
+date:   2022-12-06 13:23:50
 image:  10.jpg
 tags:   project
 ---
