@@ -1,7 +1,6 @@
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "https://he22ra.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang:           "ko_KR"
-timezone:       "Asia/Seoul"
 home_path:      "/posts"
 
 
