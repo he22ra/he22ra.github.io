@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
-image: aboutme.jpg
+title: Project
+permalink: /project/
+image: 
 ---
 
 안녕하세요, 이희라입니다.   
