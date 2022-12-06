@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  purplaying
-date:   2022-12-06 13:23:50
-image:  10.jpg
-tags:   project
+date:   2022-12-05 13:23:50
+image:  project/purplaying/001.png
+tags:   Project
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

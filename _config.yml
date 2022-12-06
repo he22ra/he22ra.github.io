@@ -1,4 +1,4 @@
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://he22ra.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang:           "ko_KR"
 home_path:      "/posts"
