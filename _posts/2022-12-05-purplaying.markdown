@@ -1,26 +1,44 @@
 ---
 layout: post
 title:  purplaying
-date:   2022-12-05 13:23:50
-image:  project/purplaying/001.png
+subtitle : 크라우드펀딩사이트 '퍼플레잉'
+description : AI 웹개발 과정 포트폴리오 2022.8 ~ 2023.01
+date:   2022-12-05
+modify_date : 2022-12-08
+image:  project/purplaying/01.png
 tags:   Project
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+오픈마켓형 크라우드펀딩 사이트로 사용자가 프로젝트를 펀딩, 후원할 수 있으며   
+리워드를 결제하고 결제내역을 관리할 수 있음.   
 
-Jekyll also offers powerful support for code snippets:
+**주요기능**
+1. 누구나 프로젝트를 오픈하고 후원이 가능
+2. 마이페이지 
+  - 등록한 프로젝트 관리
+  - 후원한 프로젝트 관리
+  - 관심 프로젝트 관리
+  - 알림 내역 관리
+3. 모금액 합계, 달성률 합계
+4. 커뮤니티(창작자 - 후원자) 질문&답변
+5. 관리자페이지
+  - 프로젝트 관리
+  - 유저관리
+  - 메인 배너(캐러셀) 관리
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+**참여분야 : 기획, 프론트엔드, 백엔드, 스케줄링**
++ 기획 : 서비스 플로우, 버전관리, 요구사항 분석 및 작성
++ 프론트엔드 : 페이지 디자인, CSS 통일(BootStrap5.0), 로고
++ 백엔드 : 게시판, 로그인, 프로젝트 등록, 이미지 파일업로드 기능 구현
++ 리뷰 : 시퀀스 다이어그램, 클래스 다이어그램 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
+**언어**
+JAVA, JavaScript, ajax, Jquery, HTML, CSS   
+**TOOL** 
+Spring, DBeaver, VScode, Git, intellij, plantUML
+
+***
+
+![이희라 웹개발포트폴리오 퍼플레잉 서비스플로우 ]({{site.baseurl}}/images/project/purplaying/02.png)

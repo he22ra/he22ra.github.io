@@ -6,7 +6,10 @@ layout: default
     <div class="row">
       <div class="col col-10 push-1 col-11 push-t-1 col-m-12 push-m-0">
         <span class="post__date">
-          <time datetime="{{ page.date | date_to_xmlschema }}">{{page.date | date: '%b %d, %Y'}}</time>
+          <time datetime="{{ page.date | date_to_xmlschema }}">{{page.date | date: '%b %d, %Y'}}</time><br/>
+        </span>
+        <span class="modify__date">
+          <time datetime="{{ page.modify_date | date_to_xmlschema }}">Last Modified Date : {{page.modify_date | date: '%b %d, %Y'}}</time>
         </span>
 
         <h1 class="post-title">{{ page.title | escape }}</h1>
@@ -47,6 +50,9 @@ layout: default
     <article class="post {{ no-image }} col col-8 col-t-10 col-m-12">
 
       <div class="post__content">
+        <h4>{{ page.subtitle | escape }}</h4>
+        <p style="color: rgba(0, 0, 0, 0.5);"><i><small>{{ page.description | escape }}</small></i></p>
+        
         {{ content }}
       </div>
 

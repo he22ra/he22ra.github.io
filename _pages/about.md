@@ -10,7 +10,7 @@ image: aboutme.jpg
 .   
 .   
 Web Developer & Designer   
-AI 웹개발 수료 중.. ~ 2023.01.11   
+<strong>AI 웹개발 과정 수료중 (2022.8 ~ 2023.01)</strong> 
 
 
 ***
