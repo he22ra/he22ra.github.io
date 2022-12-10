@@ -6,7 +6,7 @@ description : AI 웹개발 과정 포트폴리오 2022.8 ~ 2023.01
 date:   2022-12-05
 modify_date : 2022-12-08
 image:  project/purplaying/01.png
-tags:   Project
+tags:   project
 ---
 
 오픈마켓형 크라우드펀딩 사이트로 사용자가 프로젝트를 펀딩, 후원할 수 있으며   
