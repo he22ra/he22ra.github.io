@@ -12,7 +12,7 @@ layout: default
           <time datetime="{{ page.modify_date | date_to_xmlschema }}">Last Modified Date : {{page.modify_date | date: '%b %d, %Y'}}</time>
         </span>
 
-        <h1 class="post-title">{{ page.title | escape }}</h1>
+        <h2 class="post-title">{{ page.title | escape }}</h2>
 
         <div class="post__info">
           <div class="post__author">
@@ -23,7 +23,7 @@ layout: default
           {% if page.tags.size >= 1 %}
           <div class="post__tags">
             {% for tag in page.tags %}
-              <a href="{{ site.baseurl }}/tag/{{ tag | downcase | replace: " ", "-" }}" class="post__tags-tag">{{ tag }}</a>
+              <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: " ", "-" }}' class="post__tags-tag">{{ tag }}</a>
             {% endfor %}
           </div>
           {% endif %}
