@@ -6,6 +6,7 @@ description : <뷰티쁠>매거진 X 에스티로더 유방암 의식향상 캠�
 date:   2022-12-04
 modify_date : 2022-12-13
 image:  project/togetherpink/01.png
+category: project
 tags:   project design
 ---
 

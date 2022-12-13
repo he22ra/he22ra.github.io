@@ -6,6 +6,7 @@ description : AI 웹개발 과정 포트폴리오 2022.8 ~ 2023.01
 date:   2022-12-05
 modify_date : 2022-12-08
 image:  project/purplaying/01.png
+category: project
 tags:   project
 ---
 
