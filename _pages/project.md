@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Project
 permalink: /project/
 image: 
 ---
@@ -12,4 +12,5 @@ image:
   {% for post in page.posts %}
     {% include article-content.html %}
   {% endfor %}
-{% else %}s
+{% else %}
+{% endif %}
