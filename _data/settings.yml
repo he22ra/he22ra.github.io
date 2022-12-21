@@ -10,9 +10,9 @@ description: Web Developer & Designer Portfolio Site.
 author:
   name: Heera Lee
   image: project/crackerie/01.jpg
-         project/crackerie/02.png
-         project/crackerie/03.png
-         project/crackerie/04.png
+#   image: project/crackerie/02.png
+#   image: project/crackerie/03.png
+
   say-hello: Hello, I’m <strong>Heera, Lee</strong>
   bio:  <i class="fa-solid fa-laptop-code"></i> Development, Design, Marketing about <strong>web</strong>.<br/>
         <i class="fa-regular fa-face-kiss-wink-heart"></i> Loves watch Cinema & Musical <br/> 

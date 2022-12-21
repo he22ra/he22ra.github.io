@@ -15,17 +15,6 @@
       <div class="col col-6 col-t-12">
         <div class="hero__image">
           <img src="{{site.baseurl}}/images/{{ site.data.settings.author.image }}" alt="">
-          <!-- carousel
-          <div class="flexslider">
-            <ul class="slides">
-              <li> <img src="{{site.baseurl}}/images/{{ site.data.settings.author.image }}" alt=""> </li>
-              <li> <img src="{{site.baseurl}}/images/{{ site.data.settings.author.image }}" alt=""> </li>
-              <li> <img src="{{site.baseurl}}/images/{{ site.data.settings.author.image }}" alt=""> </li>
-              {% for image in site.data.settings.author.image limit:5 %}
-                <li> <img src="{{site.baseurl}}/images/{{ image }}" alt=""> </li>
-              {% endfor %} 
-            </ul>
-          </div> -->
         </div>
       </div>
     </div>
