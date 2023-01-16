@@ -19,10 +19,7 @@ tags:   project
 <small>date : 2020.05 </small>  
   
 **예약 화면**   
-![이희라 포트폴리오 프론트엔드 건강검진 사이트 UI ]({{site.baseurl}}/images/project/healthcaresite/01.png)  
-![이희라 포트폴리오 프론트엔드 건강검진 사이트 UI ]({{site.baseurl}}/images/project/healthcaresite/02.png)   
-![이희라 포트폴리오 프론트엔드 건강검진 사이트 UI ]({{site.baseurl}}/images/project/healthcaresite/03.png)  
+![이희라 포트폴리오 프론트엔드 건강검진 사이트 UI ]({{site.baseurl}}/images/project/healthcaresite/01.png)   
   
 **검진 상세페이지**  
 ![이희라 포트폴리오 프론트엔드 건강검진 사이트 UI ]({{site.baseurl}}/images/project/healthcaresite/04.png)  
-![이희라 포트폴리오 프론트엔드 건강검진 사이트 UI ]({{site.baseurl}}/images/project/healthcaresite/05.png)  
