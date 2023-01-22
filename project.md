@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Project
-permalink: /project/
 ---
 
 <div class="container">
