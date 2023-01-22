@@ -7,7 +7,7 @@ date:   2022-12-04
 modify_date : 2022-12-13
 image:  project/togetherpink/01.png
 category: project
-tags:   project design
+tags:   [project, design]
 ---
 
 에스티로더의 핑크리본 캠페인을 홍보하고 데일리 퀴즈와 해시태그를 이용한 SNS(페이스북, 인스타그램) 이벤트를 통해 바자회 초대권을 증정하는 등 온라인 프로모션을 진행함.   
