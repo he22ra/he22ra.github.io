@@ -31,7 +31,7 @@ include:
 tag_page_dir:         tag
 tag_page_layout:      tag_page
 tag_permalink_style:  pretty
-
+tag_path : "/tags"
 
 sass:
   sass_dir: _sass
