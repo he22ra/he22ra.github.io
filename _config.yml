@@ -1,8 +1,6 @@
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://he22ra.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang:           "ko_KR"
-home_path:      "/posts"
-
 
 # Build settings
 markdown: kramdown
@@ -31,7 +29,6 @@ include:
 tag_page_dir:         tag
 tag_page_layout:      tag_page
 tag_permalink_style:  pretty
-tag_path : "/tags"
 
 sass:
   sass_dir: _sass
