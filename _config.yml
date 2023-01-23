@@ -29,8 +29,6 @@ include:
 tag_page_dir:         tag
 tag_page_layout:      tag_page
 tag_permalink_style:  pretty
-tag_feed_layout: tag_feed
-tag_feed_dir: tag
 
 sass:
   sass_dir: _sass
