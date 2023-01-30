@@ -1,4 +1,4 @@
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://he22ra.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: "ko_KR"
 
@@ -8,7 +8,7 @@ permalink: pretty
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-tagging
+  - jekyll/tagging
 
 paginate: 5
 paginate_path: "/page/:num"
