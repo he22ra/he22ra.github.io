@@ -42,4 +42,10 @@ Spring, DBeaver, VScode, Git, intellij, plantUML
 
 ***
 
-![이희라 웹개발포트폴리오 퍼플레잉 서비스플로우 ]({{site.baseurl}}/images/project/purplaying/02.png)
+**기획**  
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
+![이희라 웹개발포트폴리오 퍼플레잉 버전이력 ]({{site.baseurl}}/images/project/purplaying/2-0.png)
+
+**요구사항 정의서**  
+{% include carousel.html height="50" unit="%" duration="7" number="2" %}
