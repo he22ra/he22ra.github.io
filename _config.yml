@@ -5,10 +5,7 @@ lang: "ko_KR"
 # Build settings
 markdown: kramdown
 permalink: pretty
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll/tagging
+plugins: [jekyll-paginate, jekyll-sitemap, jekyll/tagging]
 
 paginate: 5
 paginate_path: "/page/:num"
@@ -33,17 +30,3 @@ tag_permalink_style:  pretty
 sass:
   sass_dir: _sass
   style: compressed
-  
-
-# Carousel
-carousels:
-  - images: 
-    - image: /images/project/purplaying/1-1.png
-    - image: /images/project/purplaying/1-2.png
-    - image: /images/project/purplaying/1-3.png
-    - image: /images/project/purplaying/1-4.png
-  
-  - images: 
-    - image: /images/project/purplaying/2-1.png
-    - image: /images/project/purplaying/2-2.png
-    - image: /images/project/purplaying/2-3.png
