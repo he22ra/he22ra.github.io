@@ -6,11 +6,10 @@ image: aboutme.jpg
 ---
 
 안녕하세요, 이희라입니다.   
-간단한 자기소개영역..   
-.   
-.   
-Web Developer & Designer   
-<strong>AI 웹개발 과정 수료중 (2022.8 ~ 2023.01)</strong> 
+Web Developer & Designer 
+  
+<strong>AI플랫폼 활용 이커머스 웹서비스 개발 과정 수료 (2022.8 ~ 2023.01)</strong>
+<strong>웹퍼블리셔(HTML5) 과정 수료 (2019.3 ~ 2019.04)</strong>  
 
 ***
 ## Skill  
@@ -41,7 +40,11 @@ Web Developer & Designer
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white">
 
-  
+***
+## 자격
+_2023.12_   SQL 개발자 |  <small>한국데이터산업진흥원</small>
+_2023.04_   AWS Certified Cloud Practitioner  |  <small>AWS (Amazon Web Services)</small>
+
 ***
 ## 경력
 
@@ -76,4 +79,4 @@ Web Developer & Designer
 ***
 ## 학력
 _2010.03 ~ 2014.08_   건국대학교 산업디자인학과 졸업   
-_2019.08 ~ 2023(예정)_   한국방송통신대학교 컴퓨터과학과 졸업예정 
+_2019.08 ~ 2024.02_   한국방송통신대학교 컴퓨터과학과 졸업 
