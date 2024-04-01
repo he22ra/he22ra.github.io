@@ -42,7 +42,7 @@ Web Developer & Designer
 
 ***
 ## 자격
-_2023.12_   SQL 개발자 |  <small>한국데이터산업진흥원</small>
+_2023.12_   SQL 개발자 |  <small>한국데이터산업진흥원</small>  
 _2023.04_   AWS Certified Cloud Practitioner  |  <small>AWS (Amazon Web Services)</small>
 
 ***
