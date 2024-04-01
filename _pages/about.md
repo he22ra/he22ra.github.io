@@ -8,8 +8,8 @@ image: aboutme.jpg
 안녕하세요, 이희라입니다.   
 Web Developer & Designer 
   
-<strong>AI플랫폼 활용 이커머스 웹서비스 개발 과정 수료 (2022.8 ~ 2023.01)</strong>
-<strong>웹퍼블리셔(HTML5) 과정 수료 (2019.3 ~ 2019.04)</strong>  
+<strong>AI플랫폼 활용 이커머스 웹서비스 개발 과정 수료 (2022.8 ~ 2023.01)</strong>  
+<strong>웹퍼블리셔(HTML5) 과정 수료 (2019.3 ~ 2019.04)</strong>    
 
 ***
 ## Skill  
@@ -48,6 +48,12 @@ _2023.04_   AWS Certified Cloud Practitioner  |  <small>AWS (Amazon Web Services
 ***
 ## 경력
 
+#### 메가존 클라우드 
+<small>2023. 03 ~ 2023. 06</small>   
+기존 모놀리식 아키텍처의 MSA 전환 테스트 프로젝트 참여  
+도메인별로 분할된 Application에 API 연결 업무 수행  
+
+
 #### 재단법인 oo의학연구소 
 <small>2020. 04 ~ 2022. 07</small>   
 재단 및 의원 홍보(언론 보도자료 작성), 마케팅(바이럴), 의료광고심의 업무.   
@@ -78,5 +84,5 @@ _2023.04_   AWS Certified Cloud Practitioner  |  <small>AWS (Amazon Web Services
 
 ***
 ## 학력
-_2010.03 ~ 2014.08_   건국대학교 산업디자인학과 졸업   
-_2019.08 ~ 2024.02_   한국방송통신대학교 컴퓨터과학과 졸업 
+_2010.03 ~ 2014.08_    건국대학교 산업디자인학과 졸업   
+_2019.08 ~ 2024.02_    한국방송통신대학교 컴퓨터과학과 졸업 
