@@ -5,7 +5,7 @@ permalink: /about/
 image: aboutme.jpg
 ---
 
-안녕하세요, 이희라입니다.   
+경험에서 실현까지, 프로젝트 전체를 보는 개발자가 되고 싶은 이희라입니다.   
 Web Developer & Designer 
   
 <strong>AI플랫폼 활용 이커머스 웹서비스 개발 과정 수료 (2022.8 ~ 2023.01)</strong>  
@@ -16,9 +16,13 @@ Web Developer & Designer
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/tailwindcss-0F172A?style=flat-square&logo=tailwindcss&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
   
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
@@ -42,6 +46,7 @@ Web Developer & Designer
 
 ***
 ## 자격
+_2024.06_   정보처리기사 |  <small>한국산업인력공단</small>  
 _2023.12_   SQL 개발자 |  <small>한국데이터산업진흥원</small>  
 _2023.04_   AWS Certified Cloud Practitioner  |  <small>AWS (Amazon Web Services)</small>
 
